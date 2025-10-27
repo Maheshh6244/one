@@ -991,9 +991,9 @@
                         </div>
                     </div>
                     
-                    <div class="deal-price">$999 <span class="deal-old-price">$1,199</span> <span class="deal-discount">-17%</span></div>
+                    <div class="deal-price">$899 <span class="deal-old-price">$1,199</span> <span class="deal-discount">-17%</span></div>
                     
-                    <p>Only <strong>12</strong> items left at this price!</p>
+                    <p>Only <strong>10</strong> items left at this price!</p>
                     
                     <button class="btn btn-primary" style="padding: 12px 30px; margin-top: 20px;">Buy Now</button>
                 </div>
